@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+/task_system/data/tasks.db
+/task_system/data/task_audit.jsonl
+/task_system/data/task_embeddings/
+!/task_system/data/.gitkeep
