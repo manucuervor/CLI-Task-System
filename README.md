@@ -1,6 +1,6 @@
 # CLI Task System
 
-CLI Task System is a portable, local-first task store for agent workflows and human review loops.
+CLI Task System is a portable Token-efficient AI Task Orchestrator (SQLite-based) for agent workflows and human review loops.
 Its main purpose is to give agents a structured source of truth for tasks, revisions, execution reports, and audits.
 
 Under the hood it provides a small local system backed by:
